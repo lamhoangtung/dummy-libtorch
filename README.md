@@ -1,6 +1,6 @@
 # Dummy libtorch model
 
-This repo is used to reproduce a bug in libtorch 1.8.0
+This repo is used to reproduce a [bug #53350](https://github.com/pytorch/pytorch/issues/53350) in libtorch 1.8.0
 
 How to use it
 
