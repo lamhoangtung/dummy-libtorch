@@ -5,6 +5,8 @@ This repo is used to reproduce a bug in libtorch 1.8.0
 How to use it
 
 ```bash
+sudo apt update
+sudo apt install unzip cmake
 sh download_libtorch.sh
 sh build.sh
 ```
