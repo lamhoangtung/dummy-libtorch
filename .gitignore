@@ -1,2 +1,8 @@
 libtorch
 *.zip
+build
+cmake-3.19.7
+*.tar.gz
+*.swp
+vision-0.9.0
+CMakeFiles
